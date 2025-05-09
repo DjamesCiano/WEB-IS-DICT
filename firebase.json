@@ -1,0 +1,1 @@
+{"hosting":{"public":"build/web","ignore":["firebase.json","**/.*","**/node_modules/**"]},"flutter":{"platforms":{"dart":{"lib/firebase_options.dart":{"projectId":"inventoryappdict","configurations":{"macos":"1:511744715287:ios:01cde72e3582eb67a24a52","web":"1:511744715287:web:217a9b2c7c6a080aa24a52","windows":"1:511744715287:web:98c6ee0a1f346f98a24a52"}}}}}}
